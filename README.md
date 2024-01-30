@@ -22,4 +22,4 @@ Follow these steps to clone and compile the library:
 
 1. cd Lab1
 2. g++ -o prefix_sum_app unit_test_prefix.cpp prefix_sum.cpp
-3./prefix_sum_app
+3. /prefix_sum_app
