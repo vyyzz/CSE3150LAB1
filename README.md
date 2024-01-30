@@ -20,6 +20,6 @@ Follow these steps to clone and compile the library:
    git clone https://github.com/vyyzz/Lab1.git
 
 
-cd Lab1
-g++ -o prefix_sum_app unit_test_prefix.cpp prefix_sum.cpp
-./prefix_sum_app
+1. cd Lab1
+2. g++ -o prefix_sum_app unit_test_prefix.cpp prefix_sum.cpp
+3./prefix_sum_app
